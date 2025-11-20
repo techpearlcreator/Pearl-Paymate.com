@@ -1,0 +1,8 @@
+{
+  "name": "Copy of TeamFlow - Bill Manager",
+  "description": "A mobile-first team expense and bill management application with role-based access, admin approval workflows, and AI-powered insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
